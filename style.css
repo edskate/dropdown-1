@@ -1,0 +1,38 @@
+
+#box{
+    width: 1060px;
+    height: 750px;
+    margin: 15%;
+    background-color: rgb(136, 153, 137);
+    box-shadow: 30px 30px 30px ;
+    background: url(solo1.jpg);
+}
+#box1{
+    width: 1000px;
+    height: 1050px;
+    margin: 15%;
+    background-color: rgb(136, 153, 137);
+    box-shadow: 30px 30px 30px ;
+   
+}
+h1{
+    text-shadow: 20px #773 ;
+
+    
+}
+h1{
+    text-shadow: 30px 30px 30px rgba(255, 2, 2, 0.533);
+    text-align: center;
+    font-size: 100px;
+    color:blue;
+
+}
+#box2{
+    width: 560px;
+    height: 700px;
+    margin: 115%;
+    background-color: rgb(136, 153, 137);
+    box-shadow: 30px 30px 30px ;
+    background: url(JAM@\)\)\)2000.jpg);
+ 
+    }
